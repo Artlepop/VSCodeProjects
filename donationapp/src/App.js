@@ -1,6 +1,7 @@
 import React, {useState, useRef, useEffect} from 'react';
 import image from './images/RhinoProgressBar.png'; 
 import ConfettiGenerator from "confetti-js";
+//Test
 
 function App() { 
   const [style, setStyle] = useState({
